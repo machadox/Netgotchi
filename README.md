@@ -1,3 +1,8 @@
+# Copy of Netgotchi but changed for my esp2688 board from aliexpress (NodeMCU ESP 12-e) with a small oled imbuted.
+
+----------------------------------------------------------
+
+
 # Netgotchi 
 ![immagine](https://github.com/MXZZ/Netgotchi/assets/3322271/947416e6-c088-4167-ba62-e69a6d1170ce)
 
